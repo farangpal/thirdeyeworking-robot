@@ -6,7 +6,7 @@ const x20Ethereum = '0x0298Df47618d3E4f8B98aB1904D6639C47cde10F'
 const collectionInfo = {
   name: 'Third Eye Club',
   title: 'Third Eye Club NFT',
-  date: '9.05.2022',
+  date: '11.05.2022',
   socialMedia: {
     discord: 'https://discord.gg/',
     twitter: 'https://twitter.com',
